@@ -1,0 +1,18 @@
+hey Chatbot !
+Hello !
+whats's your name ?
+My name is Chatbot .
+why ?
+Because that's how it is !
+What color is the sky ?
+The sky is blue .
+Are you sure ?
+I'm possitive !
+So what's you favorite colour ?
+I have many favorites, i can't choose !
+You are very diplomatic !
+Yeah...
+nice
+Yeah...
+Bye
+Good bye !
